@@ -3,6 +3,13 @@ print("          ----Menu card----       ")
 
 print("small_pizza = 100RS\nmedium_pizza = 200RS\nlarge_pizza = 300RS\npepporani_for_small_pizza = 30RS\npepporani_for_medium_or_large_pizza = 50RS\nextra_cheese_anySize_pizza = 20RS")
 
+small_pizza = 100
+medium_pizza = 200
+large_pizza = 300
+pepporani_for_small_pizza = 30
+pepporani_for_medium_or_large_pizza = 50
+extra_cheese_anySize_pizza = 20
+
 pizza = input("enter which size pizza you want - small, medium or large pizza : ")
 pepporani = input("You want Pepporani :")
 Cheese = input("You want more Cheese :")
