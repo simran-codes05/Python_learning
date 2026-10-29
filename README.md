@@ -1,4 +1,10 @@
 -- Python Learning Journey Programs and Projects
+
+
+Technologies Used
+Language: Python 3
+Tools: VS Code, python 3.14
+
 -- 1. Average Height Calculator
 A program that takes a list of heights entered by the user and calculates the average height.
 
@@ -50,6 +56,20 @@ if-else statements
 Basic arithmetic
 Conditional logic
 
-Technologies Used
-Language: Python 3
-Tools: VS Code, python 3.14
+-- 6. Who Pay The Bill Program
+A Simple Small program to check who will for for others , as choosing name randomly.
+
+Concepts used:
+Variables
+User input
+if-else statements
+Random Module
+
+-- 7. Grade System Program:
+A simple program that take marks of students from students record dictionary and assign grades according to the marks.
+
+Concept used:
+Dictionary
+For Loop
+if-else Statements
+conditional logic
